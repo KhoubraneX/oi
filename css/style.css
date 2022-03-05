@@ -302,7 +302,7 @@ header .container {
     position: relative;
 }
 .cart-portfolio .p-cart:first-child {
-    background-image: url(/image/laptop-gf57479b0f_1920.jpg);
+    background-image: url(../image/laptop-gf57479b0f_1920.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.5s;
@@ -317,13 +317,13 @@ header .container {
     box-shadow: 0px 0px 4px #0000003b;
 }
 .cart-portfolio .p-cart:nth-child(2) {
-    background-image: url(/image/startup-gaa31fd15d_1920.jpg);
+    background-image: url(../image/startup-gaa31fd15d_1920.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.5s;
 }
 .cart-portfolio .p-cart:last-child {
-    background-image: url(/image/student-gc1a2c2636_1920.jpg);
+    background-image: url(../image/student-gc1a2c2636_1920.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.5s;
